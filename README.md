@@ -1,2 +1,1 @@
-![Uploading Klien (Pemilik Toko Kue Lala).jpeg…]()
-aaa
+<img src="pic_trulli.jpg" alt="Italian Trulli">
